@@ -68,7 +68,7 @@ Your email address is retained only until the earlier of:
 
 After this period, your email address is securely deleted, unless retention is required by law or you explicitly request otherwise.
 
-⸻
+----
 
 ## 4. Data Processing and Sharing
 
