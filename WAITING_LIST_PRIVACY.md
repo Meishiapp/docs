@@ -23,7 +23,7 @@ The following parties act jointly as Data Controllers under Article 26 GDPR for 
 > Role: Technical storage and infrastructure
 
 >	Marco Parisi  
-> Email: marcoparisidesign@proton.me  
+> Email: ownyourdatamp@proton.me  
 > Address: Via G. Carducci 6, 20837 Veduggio con Colzano (Monza-Brianza), Italy  
 > Role: Communications and user contact
 
